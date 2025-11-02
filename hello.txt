@@ -1,2 +1,3 @@
 "Hello Git" 
 "Edit in feature branch" 
+"more change" 
